@@ -1,0 +1,37 @@
+html {
+    background-color: rgb(255, 250, 244);
+    font-size: 10px;
+    font-family: Playwrite NZ;
+}
+
+body {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgb(234, 234, 234);
+    padding: 20px;
+    border: 3px solid rebeccapurple;
+}
+
+p,
+li {
+    color: rgb(162, 162, 255);
+    width: 500px;
+    letter-spacing: 1px;
+}
+
+.fixed-size-image {
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(116, 116, 255);
+    text-align: center;
+    text-shadow: 3px 3px 30px pink;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
